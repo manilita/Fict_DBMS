@@ -1,0 +1,23 @@
+{
+  "name": "fict_dbms",
+  "version": "1.0.0",
+  "description": "A mock database management system using generated dummy data and fictitious characters, descriptions, and user activity. The sole purpose is to showcase my learning in establishing connections, implementing permissions, and creating security measures. Building feature by feature.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manilita/Fict_DBMS.git"
+  },
+  "author": "manilita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manilita/Fict_DBMS/issues"
+  },
+  "homepage": "https://github.com/manilita/Fict_DBMS#readme",
+  "devDependencies": {
+    "electron": "^44.2.0"
+  }
+}
